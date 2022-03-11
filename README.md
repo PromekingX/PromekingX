@@ -2,13 +2,13 @@
 - 👀 I’m interested in . . . 
       Video Games, Music, Cooking, Computer Programming, Art
     
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning . . .
 -        To advance my JavaScript, HTML5, CSS3, React, C++
 -        
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on . . .
 -       Front-End Development, Software Development
 -       
-- 📫 How to reach me ...
+- 📫 How to reach me . . .
 -       PromekingX@gmail.com 
 
 <!---
